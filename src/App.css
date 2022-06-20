@@ -37,15 +37,49 @@
   }
 }
 
+nav {
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  padding: 20px 20px 20px 20px ;
+}
+
 .images {
   display: flex;
   width: 100%;
   height: 500px;
-  column-gap: 20px;
+  column-gap: 10px;
   overflow: scroll;
 }
 
+.images > img {
+  padding: 20px 20px 0px 20px;
+}
+
+.card {
+  border: solid 1px #D3D3D3;
+  margin: 20px 20px 20px 20px;
+}
+
+h1 {
+  border-bottom: solid 1px #D3D3D3;
+  padding: 10px 0px 10px 10px;
+}
+
 .details {
+  border-top: solid 1px #D3D3D3;
   text-align: left;
-  padding-left: 20px;
+  padding: 20px 20px 20px 20px;
+}
+
+.divider {
+  border-bottom: solid 1px #D3D3D3;
 }
