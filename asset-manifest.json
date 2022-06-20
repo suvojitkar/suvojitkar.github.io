@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/matrimony/static/css/main.afc8404e.css",
-    "main.js": "/matrimony/static/js/main.f1e3f90a.js",
-    "static/js/787.9f2f92c5.chunk.js": "/matrimony/static/js/787.9f2f92c5.chunk.js",
-    "index.html": "/matrimony/index.html",
-    "main.afc8404e.css.map": "/matrimony/static/css/main.afc8404e.css.map",
-    "main.f1e3f90a.js.map": "/matrimony/static/js/main.f1e3f90a.js.map",
-    "787.9f2f92c5.chunk.js.map": "/matrimony/static/js/787.9f2f92c5.chunk.js.map"
+    "main.css": "/test/static/css/main.afc8404e.css",
+    "main.js": "/test/static/js/main.8ba99a0d.js",
+    "static/js/787.0c3f432a.chunk.js": "/test/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/test/index.html",
+    "main.afc8404e.css.map": "/test/static/css/main.afc8404e.css.map",
+    "main.8ba99a0d.js.map": "/test/static/js/main.8ba99a0d.js.map",
+    "787.0c3f432a.chunk.js.map": "/test/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afc8404e.css",
-    "static/js/main.f1e3f90a.js"
+    "static/js/main.8ba99a0d.js"
   ]
 }
